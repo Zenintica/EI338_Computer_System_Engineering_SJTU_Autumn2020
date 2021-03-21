@@ -6,6 +6,8 @@
 /proj_2.1/*
 !/proj_2.1/simple-shell.c
 !/proj_2.1/Makefile
+!/proj_2.1/simple-shell.cpp
+!/proj_2.1/shell.py
 
 /proj_2.2/*
 !/proj_2.2/pid.c
